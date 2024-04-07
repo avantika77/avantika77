@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
 <h1 align="center">Hi 👋, I'm AVANTIKA SHRIVASTSAVA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate java developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
