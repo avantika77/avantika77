@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Avantika Shrivastava and I'm a Computer Science Student from India 👩‍💻 </h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://cdn.dribbble.com/users/352436/screenshots/3817518/cat-800x600.gif"  />
 
 ###
 
