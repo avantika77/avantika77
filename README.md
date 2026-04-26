@@ -1,52 +1,59 @@
-<h2 align="left">Hi 👋! My name is Avantika Shrivastava and I'm a Computer Science Student 👩‍💻 </h2>
+<h1 align="center">🌸 Hi, I'm Avantika Shrivastava 🌸</h1>
+<h3 align="center">💻 Computer Science Student | </h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+💖;Coding+with+Creativity+✨;Building+Dreams+into+Reality+🌸;Always+Learning+🌷" />
+</p>
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/352436/screenshots/3817518/cat-800x600.gif"  />
+---
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+---
 
-###
+### 🌷 About Me
 
-<div align="left">
-  <a href="http://www.youtube.com/@ArbitraryDiaries07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-button" height="35" alt="youtube logo"  />
+* 🎓 Computer Science Student
+* 🌱 Currently learning **Full Stack Development**
+* 💡 Love blending **design + coding**
+* 💕 Enjoy creating cute & creative projects
+
+---
+
+### 🎀 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mongodb,androidstudio,intellij,canva" />
+</p>
+
+---
+
+### 🍓 Projects
+
+* 🌸 Student Management System (Java)
+* 💖 Portfolio Website (HTML, CSS, JavaScript)
+* 
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="http://www.youtube.com/@ArbitraryDiaries07">
+    <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-button" height="35" alt="instagram logo"  />
-  <a href="7seasschool@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-button" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/avantika-shrivastava-b67037252">
+    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/avantika-shrivastava-b67037252" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-button" height="35" alt="linkedin logo"  />
+  <a href="https://x.com/AlphaL77">
+    <img src="https://img.shields.io/badge/Twitter-FFC0CB?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://x.com/AlphaL77?t=wEzHiEXTRDbsviQW46upwA&s=35" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-button" height="35" alt="twitter logo"  />
-</div>
+  <a href="mailto:7seasschool@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-###
+---
+
