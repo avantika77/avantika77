@@ -47,10 +47,7 @@
   <a href="https://www.linkedin.com/in/avantika-shrivastava-b67037252">
     <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/AlphaL77">
-    <img src="https://img.shields.io/badge/Twitter-FFC0CB?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:7seasschool@gmail.com">
+  <a href="mailto:avantikashrivastava888.com">
     <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
