@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
 </p>
 
 ---
@@ -17,8 +17,7 @@
 
 * 🎓 Computer Science Student
 * 🌱 Currently learning **Full Stack Development**
-* 💡 Love blending **design + coding**
-* 💕 Enjoy creating cute & creative projects
+
 
 ---
 
@@ -31,17 +30,18 @@
 ---
 
 ### 🍓 Projects
-
-* 🌸 Student Management System (Java)
-* 💖 Portfolio Website (HTML, CSS, JavaScript)
-* 
-
+* 🌸 **ProfitPath Referral System (MERN)**
+* 🌸 **Data Visualization Dashboard**
+* 🌸 **Power BI / Excel Dashboard**
+* 🌸 **Portfolio Website (HTML, CSS, JavaScript)**
+* 🌸 **Analog Clock & Calculator (Web)**
+* 🌸 **Simple Calculator (C#)**
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="http://www.youtube.com/@ArbitraryDiaries07">
+  <a href="http://www.youtube.com/@OutbreakZone7 ">
     <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/avantika-shrivastava-b67037252">
