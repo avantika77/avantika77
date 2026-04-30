@@ -1,5 +1,5 @@
 <h1 align="center">🌸 Hi, I'm Avantika Shrivastava 🌸</h1>
-<h3 align="center">💻 Computer Science Student | </h3>
+<h3 align="center">💻 Computer Science Student | Diploma $ Bachelor's in CSE </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+💖;Coding+with+Creativity+✨;Building+Dreams+into+Reality+🌸;Always+Learning+🌷" />
