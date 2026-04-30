@@ -50,7 +50,7 @@
   <a href="mailto:avantikashrivastava888.com">
     <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-<a href="Follow the Networking 🛜 channel on WhatsApp: https://whatsapp.com/channel/0029Vb6P2TU8PgsKEYpFmd1a">
+<a href="https://whatsapp.com/channel/0029Vb6P2TU8PgsKEYpFmd1a">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
