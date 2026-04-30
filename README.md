@@ -16,7 +16,8 @@
 ### 🌷 About Me
 
 * 🎓 Computer Science Student
-* 🌱 Currently learning **Full Stack Development**
+* 🌱 Recent completed Project on **Mern**
+* 👩‍💻 Working on Python Project  
 
 
 ---
